@@ -1,0 +1,44 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyaa="https://nyaa.si/xmlns/nyaa" version="2.0">
+	<channel>
+		<title>Nyaa - Home - Torrent File RSS</title>
+		<description>RSS Feed for Home</description>
+		<link>https://nyaa.si/</link>
+		<atom:link href="https://nyaa.si/?page=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>[shincaps] Yozakura-san Chi no Daisakusen - 10 (AT-X 1440x1080 MPEG2 TS).ts</title>
+				<link>https://nyaa.si/download/1832232.torrent</link>
+				<guid isPermaLink="true">https://nyaa.si/view/1832232</guid>
+				<pubDate>Tue, 11 Jun 2024 13:30:47 -0000</pubDate>
+
+				<nyaa:seeders>1</nyaa:seeders>
+				<nyaa:leechers>2</nyaa:leechers>
+				<nyaa:downloads>0</nyaa:downloads>
+				<nyaa:infoHash>866ed1f2b35409efe9cdca9e0a1ce25a81586599</nyaa:infoHash>
+			<nyaa:categoryId>1_4</nyaa:categoryId>
+			<nyaa:category>Anime - Raw</nyaa:category>
+			<nyaa:size>2.1 GiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1832232">#1832232 | [shincaps] Yozakura-san Chi no Daisakusen - 10 (AT-X 1440x1080 MPEG2 TS).ts</a> | 2.1 GiB | Anime - Raw | 866ED1F2B35409EFE9CDCA9E0A1CE25A81586599]]></description>
+		</item>
+		<item>
+			<title>[Koi-Raws] Dekisoko - 11 「惑う元英雄」 (AT-X 1280x720 x264 AAC).mkv</title>
+				<link>https://nyaa.si/download/1832231.torrent</link>
+				<guid isPermaLink="true">https://nyaa.si/view/1832231</guid>
+				<pubDate>Tue, 11 Jun 2024 13:08:55 -0000</pubDate>
+
+				<nyaa:seeders>25</nyaa:seeders>
+				<nyaa:leechers>23</nyaa:leechers>
+				<nyaa:downloads>41</nyaa:downloads>
+				<nyaa:infoHash>994fdc08017936fa05d611d929744a4b81dab5c0</nyaa:infoHash>
+			<nyaa:categoryId>1_4</nyaa:categoryId>
+			<nyaa:category>Anime - Raw</nyaa:category>
+			<nyaa:size>330.8 MiB</nyaa:size>
+			<nyaa:comments>0</nyaa:comments>
+			<nyaa:trusted>No</nyaa:trusted>
+			<nyaa:remake>No</nyaa:remake>
+			<description><![CDATA[<a href="https://nyaa.si/view/1832231">#1832231 | [Koi-Raws] Dekisoko - 11 「惑う元英雄」 (AT-X 1280x720 x264 AAC).mkv</a> | 330.8 MiB | Anime - Raw | 994FDC08017936FA05D611D929744A4B81DAB5C0]]></description>
+		</item>
+	</channel>
+</rss>

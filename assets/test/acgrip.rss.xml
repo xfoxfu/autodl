@@ -1,0 +1,29 @@
+<rss version="2.0">
+  <channel>
+    <title>ACG.RIP</title>
+    <description>ACG.RIP has super cow power</description>
+    <link>https://acg.rip/page/1.xml</link>
+    <ttl>1800</ttl>
+    <item>
+      <title>[YYSUB-RAW]Chibi Maruko-chan II 樱桃小丸子[1434][2024.06.09][AVC][1080P][FOD]</title>
+      <pubDate>Sun, 09 Jun 2024 03:51:58 -0700</pubDate>
+      <link>https://acg.rip/t/305824</link>
+      <guid>https://acg.rip/t/305824</guid>
+      <enclosure url="https://acg.rip/t/305824.torrent" type="application/x-bittorrent"></enclosure>
+    </item>
+    <item>
+      <title>[Up to 21°C] 吹响吧！上低音号 第三季 / Hibike! Euphonium 3 - 10 (CR 1920x1080 AVC AAC MKV)</title>
+      <pubDate>Sun, 09 Jun 2024 03:47:12 -0700</pubDate>
+      <link>https://acg.rip/t/305823</link>
+      <guid>https://acg.rip/t/305823</guid>
+      <enclosure url="https://acg.rip/t/305823.torrent" type="application/x-bittorrent"></enclosure>
+    </item>
+    <item>
+      <title>[ANi]  吹響吧！上低音號 第三季（僅限港澳台地區） - 10 [1080P][Bilibili][WEB-DL][AAC AVC][CHT CHS][MP4]</title>
+      <pubDate>Sun, 09 Jun 2024 03:04:09 -0700</pubDate>
+      <link>https://acg.rip/t/305822</link>
+      <guid>https://acg.rip/t/305822</guid>
+      <enclosure url="https://acg.rip/t/305822.torrent" type="application/x-bittorrent"></enclosure>
+    </item>
+  </channel>
+</rss>
