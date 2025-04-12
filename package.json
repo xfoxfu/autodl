@@ -5,8 +5,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsx src/index.ts",
-    "test": "ava"
+    "build": "tsc",
+    "test": "ava",
+    "start": "tsx src/index.ts"
   },
   "keywords": [],
   "author": "",
