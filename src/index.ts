@@ -136,9 +136,9 @@ bot.command("del", async (ctx) => {
                   Markup.button.url("Torrent", torrent.torrent_link),
                   Markup.button.url(
                     "PikPak",
-                    `https://mypikpak.com/drive/url-checker?url=${encodeURIComponent(
+                    `https://mypikpak.com/drive/landing?urls=${encodeURIComponent(
                       torrent.torrent_link
-                    )}`
+                    )}&env=plugin`
                   ),
                 ])
               );
