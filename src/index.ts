@@ -138,7 +138,7 @@ bot.command("del", async (ctx) => {
                     "PikPak",
                     `https://mypikpak.com/drive/landing?urls=${encodeURIComponent(
                       torrent.torrent_link
-                    )}&env=plugin`
+                    )}&url_prefix=&extension_id=jkmnnedinolbhjcibbfpdlkmmibkcbgf&version=1.7.1&env=plugin`
                   ),
                 ])
               );
