@@ -1,7 +1,7 @@
 FROM node:25-slim AS base
 ENV PNPM_HOME="/pnpm"
 ENV PATH="$PNPM_HOME:$PATH"
-RUN npm install -g corepack@latest
+RUN npm uninstall -g yarn pnpm && npm install -g corepack@latest
 COPY . /app
 WORKDIR /app
 
