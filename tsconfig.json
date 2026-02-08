@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "incremental": true,
-    "target": "es2022",
+    "target": "es2024",
     "rootDir": "src",
     "outDir": "dist",
     "module": "node16",
@@ -20,12 +20,7 @@
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "skipLibCheck": true,
-    "typeRoots": [
-      "src/typings",
-      "node_modules/@types"
-    ]
+    "typeRoots": ["src/typings", "node_modules/@types"]
   },
-  "include": [
-    "src/**/*"
-  ]
+  "include": ["src/**/*"]
 }

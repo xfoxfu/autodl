@@ -11,9 +11,6 @@ import {
 export const user = pgTable("user", {
   id: uuid().primaryKey(),
   telegramId: bigint({ mode: "number" }).unique().notNull(),
-  alistEndpoint: text(),
-  alistUsername: text(),
-  alistPassword: text(),
 });
 
 export const subscription = pgTable("subscription", {
@@ -47,7 +44,7 @@ export const subscriptionRelations = relations(
       references: [user.id],
     }),
     subscription: many(subscription),
-  })
+  }),
 );
 
 export const processHistoryRelations = relations(
@@ -58,5 +55,5 @@ export const processHistoryRelations = relations(
       references: [subscription.id],
     }),
     processHistory: many(processHistory),
-  })
+  }),
 );

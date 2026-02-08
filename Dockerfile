@@ -1,7 +1,7 @@
 FROM node:25-slim AS base
 ENV PNPM_HOME="/pnpm"
 ENV PATH="$PNPM_HOME:$PATH"
-RUN curl -fsSL https://get.pnpm.io/install.sh | sh -
+RUN npm install -g corepack@latest
 COPY . /app
 WORKDIR /app
 

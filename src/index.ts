@@ -16,7 +16,7 @@ const sleep = (s: number, reason: string) => {
 
 const bot = new Telegraf(process.env["TELEGRAM_BOT_TOKEN"] ?? "");
 bot.start(async (ctx) => {
-  log.info("User started bot", { telegramId: ctx.from.id });
+  log.info("User started bot: %o", { telegramId: ctx.from.id });
   if (
     !(await db.query.user.findFirst({
       where: eq(schema.user.telegramId, ctx.from.id),
@@ -49,9 +49,9 @@ bot.command("list", async (ctx) => {
         (sub) =>
           `Source: ${sub.id}\nFilter: ${sub.filter}\nEnabled: ${
             sub.enabled ? "Yes" : "No"
-          }`
+          }`,
       )
-      .join("\n\n")
+      .join("\n\n"),
   );
 });
 bot.command("add", async (ctx) => {
@@ -113,12 +113,12 @@ bot.command("del", async (ctx) => {
               torrent.info_hash
             ) {
               log.info(
-                `Processing torrent for subscription ${subscription.id}`
+                `Processing torrent for subscription ${subscription.id}`,
               );
               const existing = await db.query.processHistory.findFirst({
                 where: and(
                   eq(schema.processHistory.infoHash, torrent.info_hash),
-                  eq(schema.processHistory.subscriptionId, subscription.id)
+                  eq(schema.processHistory.subscriptionId, subscription.id),
                 ),
               });
               if (existing) {
@@ -126,7 +126,7 @@ bot.command("del", async (ctx) => {
                 continue;
               }
               log.info(
-                `Send Telegram message to ${subscription.user.id}:${subscription.user.telegramId}`
+                `Send Telegram message to ${subscription.user.id}:${subscription.user.telegramId}`,
               );
               await bot.telegram.sendMessage(
                 subscription.user.telegramId,
@@ -137,10 +137,10 @@ bot.command("del", async (ctx) => {
                   Markup.button.url(
                     "PikPak",
                     `https://mypikpak.com/drive/landing?urls=${encodeURIComponent(
-                      torrent.torrent_link
-                    )}&url_prefix=&extension_id=jkmnnedinolbhjcibbfpdlkmmibkcbgf&version=1.7.1&env=plugin`
+                      torrent.torrent_link,
+                    )}&url_prefix=&extension_id=jkmnnedinolbhjcibbfpdlkmmibkcbgf&version=1.7.1&env=plugin`,
                   ),
-                ])
+                ]),
               );
               await db.insert(schema.processHistory).values({
                 id: uuid(),
