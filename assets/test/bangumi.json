@@ -1,49 +1,53 @@
 {
-  "page_count": 5773,
-  "torrents": [
-    {
-      "_id": "666593fdbfe5da0007fb4e64",
-      "category_tag_id": "549ef207fe682f7549f1ea90",
-      "title": "【喵萌奶茶屋】★04月新番★[外星筆記 / 星際莊的戀愛日記 / Astro Note][10][1080p][繁日雙語][招募翻譯]",
-      "introduction": "<p><img alt src=\"https://s2.loli.net/2024/04/01/fviNkow8PZF9JWC.jpg\" /></p>\n<hr />\n<p><img alt src=\"https://nekomoe.pages.dev/images/mainVisual/char.jpg\" /></p>\n<hr />\n<p>喵萌奶茶屋招募以下職位的小伙伴！</p>\n<p>1.<strong>翻譯</strong>：沒有證書要求，能正確聽譯一集動畫即可</p>\n<p>2.<strong>時軸</strong>：使用 Aegisub 準確拉軸對幀並設置合適的樣式、字體、螢幕字</p>\n<p>申請請加入 QQ 群 421320480 參加考核，請正確註明應募的職位。</p>\n<hr />\n<p>奶茶屋所有最新的【<a href=\"https://github.com/Nekomoekissaten/Nekomoekissaten-Subs\"><strong>外掛字幕</strong></a>】在這裡，若想轉載修改見 repo 的 README。</p>\n<p>若有問題回報，可以通過 Nekomoekissaten-Subs GitHub repo 的 <a href=\"https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/issues\"><strong>Issues</strong></a> 或 <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfHsIh37P2PI1oQDCEOHyUw2JBqB5db_1ZqY0O06xYqWIFbRA/viewform\"><strong>Google 表單</strong></a> 進行回報。</p>",
-      "tag_ids": ["549ef207fe682f7549f1ea90", "58a9c1e6f5dc363606ab42ed"],
-      "comments": 0,
-      "downloads": 16,
-      "finished": 0,
-      "leechers": 0,
-      "seeders": 0,
-      "uploader_id": "632b0f7c22a4a1000704c079",
-      "team_id": "58a9c1c9f5dc363606ab42ec",
-      "publish_time": "2024-06-09T11:37:33.303Z",
-      "magnet": "magnet:?xt=urn:btih:e9de43a9729e986eebb7810df0425d4137067f62",
-      "infoHash": "e9de43a9729e986eebb7810df0425d4137067f62",
-      "file_id": "666593fbbfe5da0007fb4e59",
-      "teamsync": null,
-      "content": [["[Nekomoe kissaten][Astro Note][10][1080p][JPTC].mp4", "390.19 MB"]],
-      "size": "390.19 MB",
-      "btskey": ""
-    },
-    {
-      "_id": "66659368bfe5da0007fb4b83",
-      "category_tag_id": "549ef207fe682f7549f1ea90",
-      "title": "【喵萌奶茶屋】★04月新番★[外星笔记 / 星际庄的恋爱日记 / Astro Note][10][1080p][简日双语][招募翻译]",
-      "introduction": "<p><img alt src=\"https://s2.loli.net/2024/04/01/fviNkow8PZF9JWC.jpg\" /></p>\n<hr />\n<p><img alt src=\"https://nekomoe.pages.dev/images/mainVisual/char.jpg\" /></p>\n<hr />\n<p>喵萌奶茶屋招募以下职位的小伙伴！</p>\n<p>1.<strong>翻译</strong>：没有证书要求，能正确听译一集动画即可</p>\n<p>2.<strong>时轴</strong>：使用 Aegisub 准确拉轴对帧并设置合适的样式、字体、屏幕字</p>\n<p>申请请加入 QQ 群 421320480 参加考核，请正确注明应募的职位。</p>\n<hr />\n<p>奶茶屋所有最新的【<a href=\"https://github.com/Nekomoekissaten/Nekomoekissaten-Subs\"><strong>外挂字幕</strong></a>】在这里，若想转载修改见 repo 的 README。</p>\n<p>若有问题回报，可以通过 Nekomoekissaten-Subs GitHub repo 的 <a href=\"https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/issues\"><strong>Issues</strong></a> 或 <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfHsIh37P2PI1oQDCEOHyUw2JBqB5db_1ZqY0O06xYqWIFbRA/viewform\"><strong>Google 表单</strong></a> 进行回报。</p>",
-      "tag_ids": ["549ef207fe682f7549f1ea90", "58a9c1e6f5dc363606ab42ed"],
-      "comments": 0,
-      "downloads": 13,
-      "finished": 0,
-      "leechers": 0,
-      "seeders": 0,
-      "uploader_id": "632b0f7c22a4a1000704c079",
-      "team_id": "58a9c1c9f5dc363606ab42ec",
-      "publish_time": "2024-06-09T11:35:04.137Z",
-      "magnet": "magnet:?xt=urn:btih:18f7b955fb7e03efc264ac52013dd8f9876c6606",
-      "infoHash": "18f7b955fb7e03efc264ac52013dd8f9876c6606",
-      "file_id": "66659367bfe5da0007fb4b7d",
-      "teamsync": null,
-      "content": [["[Nekomoe kissaten][Astro Note][10][1080p][JPSC].mp4", "390.54 MB"]],
-      "size": "390.54 MB",
-      "btskey": ""
-    }
-  ]
+	"page_count": 5773,
+	"torrents": [
+		{
+			"_id": "666593fdbfe5da0007fb4e64",
+			"category_tag_id": "549ef207fe682f7549f1ea90",
+			"title": "【喵萌奶茶屋】★04月新番★[外星筆記 / 星際莊的戀愛日記 / Astro Note][10][1080p][繁日雙語][招募翻譯]",
+			"introduction": "<p><img alt src=\"https://s2.loli.net/2024/04/01/fviNkow8PZF9JWC.jpg\" /></p>\n<hr />\n<p><img alt src=\"https://nekomoe.pages.dev/images/mainVisual/char.jpg\" /></p>\n<hr />\n<p>喵萌奶茶屋招募以下職位的小伙伴！</p>\n<p>1.<strong>翻譯</strong>：沒有證書要求，能正確聽譯一集動畫即可</p>\n<p>2.<strong>時軸</strong>：使用 Aegisub 準確拉軸對幀並設置合適的樣式、字體、螢幕字</p>\n<p>申請請加入 QQ 群 421320480 參加考核，請正確註明應募的職位。</p>\n<hr />\n<p>奶茶屋所有最新的【<a href=\"https://github.com/Nekomoekissaten/Nekomoekissaten-Subs\"><strong>外掛字幕</strong></a>】在這裡，若想轉載修改見 repo 的 README。</p>\n<p>若有問題回報，可以通過 Nekomoekissaten-Subs GitHub repo 的 <a href=\"https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/issues\"><strong>Issues</strong></a> 或 <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfHsIh37P2PI1oQDCEOHyUw2JBqB5db_1ZqY0O06xYqWIFbRA/viewform\"><strong>Google 表單</strong></a> 進行回報。</p>",
+			"tag_ids": ["549ef207fe682f7549f1ea90", "58a9c1e6f5dc363606ab42ed"],
+			"comments": 0,
+			"downloads": 16,
+			"finished": 0,
+			"leechers": 0,
+			"seeders": 0,
+			"uploader_id": "632b0f7c22a4a1000704c079",
+			"team_id": "58a9c1c9f5dc363606ab42ec",
+			"publish_time": "2024-06-09T11:37:33.303Z",
+			"magnet": "magnet:?xt=urn:btih:e9de43a9729e986eebb7810df0425d4137067f62",
+			"infoHash": "e9de43a9729e986eebb7810df0425d4137067f62",
+			"file_id": "666593fbbfe5da0007fb4e59",
+			"teamsync": null,
+			"content": [
+				["[Nekomoe kissaten][Astro Note][10][1080p][JPTC].mp4", "390.19 MB"]
+			],
+			"size": "390.19 MB",
+			"btskey": ""
+		},
+		{
+			"_id": "66659368bfe5da0007fb4b83",
+			"category_tag_id": "549ef207fe682f7549f1ea90",
+			"title": "【喵萌奶茶屋】★04月新番★[外星笔记 / 星际庄的恋爱日记 / Astro Note][10][1080p][简日双语][招募翻译]",
+			"introduction": "<p><img alt src=\"https://s2.loli.net/2024/04/01/fviNkow8PZF9JWC.jpg\" /></p>\n<hr />\n<p><img alt src=\"https://nekomoe.pages.dev/images/mainVisual/char.jpg\" /></p>\n<hr />\n<p>喵萌奶茶屋招募以下职位的小伙伴！</p>\n<p>1.<strong>翻译</strong>：没有证书要求，能正确听译一集动画即可</p>\n<p>2.<strong>时轴</strong>：使用 Aegisub 准确拉轴对帧并设置合适的样式、字体、屏幕字</p>\n<p>申请请加入 QQ 群 421320480 参加考核，请正确注明应募的职位。</p>\n<hr />\n<p>奶茶屋所有最新的【<a href=\"https://github.com/Nekomoekissaten/Nekomoekissaten-Subs\"><strong>外挂字幕</strong></a>】在这里，若想转载修改见 repo 的 README。</p>\n<p>若有问题回报，可以通过 Nekomoekissaten-Subs GitHub repo 的 <a href=\"https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs/issues\"><strong>Issues</strong></a> 或 <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfHsIh37P2PI1oQDCEOHyUw2JBqB5db_1ZqY0O06xYqWIFbRA/viewform\"><strong>Google 表单</strong></a> 进行回报。</p>",
+			"tag_ids": ["549ef207fe682f7549f1ea90", "58a9c1e6f5dc363606ab42ed"],
+			"comments": 0,
+			"downloads": 13,
+			"finished": 0,
+			"leechers": 0,
+			"seeders": 0,
+			"uploader_id": "632b0f7c22a4a1000704c079",
+			"team_id": "58a9c1c9f5dc363606ab42ec",
+			"publish_time": "2024-06-09T11:35:04.137Z",
+			"magnet": "magnet:?xt=urn:btih:18f7b955fb7e03efc264ac52013dd8f9876c6606",
+			"infoHash": "18f7b955fb7e03efc264ac52013dd8f9876c6606",
+			"file_id": "66659367bfe5da0007fb4b7d",
+			"teamsync": null,
+			"content": [
+				["[Nekomoe kissaten][Astro Note][10][1080p][JPSC].mp4", "390.54 MB"]
+			],
+			"size": "390.54 MB",
+			"btskey": ""
+		}
+	]
 }

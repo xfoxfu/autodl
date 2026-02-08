@@ -1,51 +1,49 @@
 {
-  "name": "alist-autodl",
-  "type": "module",
-  "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "build": "tsc",
-    "test": "ava",
-    "start": "tsx src/index.ts | pino-pretty"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "packageManager": "pnpm@10.29.1",
-  "dependencies": {
-    "@ctrl/magnet-link": "^4.2.0",
-    "date-fns": "^4.1.0",
-    "date-fns-tz": "^3.2.0",
-    "dotenv": "^17.2.4",
-    "drizzle-orm": "^0.45.1",
-    "ky": "^1.14.3",
-    "pg": "^8.18.0",
-    "pino": "^10.3.0",
-    "rss-parser": "^3.13.0",
-    "telegraf": "^4.16.3",
-    "uuid": "^13.0.0"
-  },
-  "devDependencies": {
-    "@ava/typescript": "^6.0.0",
-    "@eslint/js": "^10.0.1",
-    "@types/node": "^25.2.2",
-    "@types/pg": "^8.16.0",
-    "ava": "^6.4.1",
-    "drizzle-kit": "^0.31.8",
-    "eslint": "^9.39.2",
-    "msw": "^2.12.9",
-    "pino-pretty": "^13.1.3",
-    "tsx": "^4.21.0",
-    "typescript": "^5.9.3",
-    "typescript-eslint": "^8.54.0"
-  },
-  "ava": {
-    "typescript": {
-      "rewritePaths": {
-        "src/": "dist/"
-      },
-      "compile": "tsc"
-    }
-  }
+	"name": "alist-autodl",
+	"type": "module",
+	"version": "0.1.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "tsc",
+		"test": "ava",
+		"start": "tsx src/index.ts | pino-pretty"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"packageManager": "pnpm@10.29.1",
+	"dependencies": {
+		"@ctrl/magnet-link": "^4.2.0",
+		"date-fns": "^4.1.0",
+		"date-fns-tz": "^3.2.0",
+		"dotenv": "^17.2.4",
+		"drizzle-orm": "^0.45.1",
+		"ky": "^1.14.3",
+		"pg": "^8.18.0",
+		"pino": "^10.3.0",
+		"rss-parser": "^3.13.0",
+		"telegraf": "^4.16.3",
+		"uuid": "^13.0.0"
+	},
+	"devDependencies": {
+		"@ava/typescript": "^6.0.0",
+		"@biomejs/biome": "2.3.14",
+		"@types/node": "^25.2.2",
+		"@types/pg": "^8.16.0",
+		"ava": "^6.4.1",
+		"drizzle-kit": "^0.31.8",
+		"msw": "^2.12.9",
+		"pino-pretty": "^13.1.3",
+		"tsx": "^4.21.0",
+		"typescript": "^5.9.3"
+	},
+	"ava": {
+		"typescript": {
+			"rewritePaths": {
+				"src/": "dist/"
+			},
+			"compile": "tsc"
+		}
+	}
 }
