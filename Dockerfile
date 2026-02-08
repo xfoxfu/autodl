@@ -1,7 +1,7 @@
 FROM node:25-slim AS base
 ENV PNPM_HOME="/pnpm"
 ENV PATH="$PNPM_HOME:$PATH"
-RUN wget -qO- https://get.pnpm.io/install.sh | ENV="$HOME/.bashrc" SHELL="$(which bash)" bash -
+RUN npm install -g pnpm
 COPY . /app
 WORKDIR /app
 
